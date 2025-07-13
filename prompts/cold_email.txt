@@ -1,0 +1,9 @@
+Write a cold email introducing a product that helps automate and personalize email follow-ups for outbound sales.
+
+Make it personalized based on the following lead information:
+- Name: {name}
+- Company: {company}
+- Role: {role}
+- Website: {website}
+
+Tone: Friendly, confident, and human. Avoid buzzwords. Keep it under 120 words.
